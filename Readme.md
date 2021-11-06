@@ -3,6 +3,10 @@
 
 This repo contains my most frequently used config files. If you use the same programs as I do then they may be useful to you. Please make sure you read through the config files to know if they will be useful to you and what you may want to change.
 
+
+![yamete.png](https://i.postimg.cc/TPP9bbpZ/assets.png)
+
+
 # To do
 * add ~~bspwm~~, herbstluftwm support
 * ~~bspwm specific polybar~~
