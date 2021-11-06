@@ -100,30 +100,9 @@ Alt + F2 connmann-gtk
 
 ## New bspwm
 
-Super + Return Terminal     
-Super + w close     
-Super + space rofi     
-Super + 0-9 go to workspace x     
-Super + Shift + 0-9 move window to workspace x     
-Super + Alt + H, J, K ,L Increase window size       
-Super + Alt + Shift + H, J, K ,L Decrease window size    
-Super + S Toggle Floating mode     
-Super + T Toggle Tiling Mode     
-Super + F Toggle Fullscreen     
-Super + Alt + Q Powermenu (requires clearine)      
-Super + Alt + R restart wm     
-Super + Escape restart keybinding     
-Super + X lockscreen     
-
-Super + F1 Enable Polybar     
-Super + F2 Thunar    
-Super + F3 chromium     
-Super + F4 cmus      
-Super + F5 vim     
-Super + F12 Disable Polybar     
-Alt + F1 gotop      
-Alt + F2 connmann-gtk     
-
+Super + Return Terminal  
+Super + Z Close
+??????
 
 >note     
 >Workspace 0 is assigned as workspace 10
