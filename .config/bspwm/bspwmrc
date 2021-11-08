@@ -27,5 +27,5 @@ bspc config bottom_padding 45
 # Autostart
 $HOME/.screenlayout/screen.sh &
 picom &
-nitrogen --restore &
+compton --restore &
 $HOME/.config/polybar/launch.sh &
